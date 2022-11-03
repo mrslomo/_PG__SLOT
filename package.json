@@ -1,13 +1,20 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
+  "name": "_PG__SLOT",
+  "theme": "PG พีจีสล็อต เล่นpgสล็อตอันดับ1",
   "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "description": "PG พีจีสล็อต เล่นpgสล็อตอันดับ1",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "PG",
+    "พีจี",
+    "pg",
+    "pgslot",
+    "สล็อต",
+    "สล็อตอันดับ1",
+    "ฝากขั้นต่ำ 100",
+    "เว็บตรงไม่ผ่านเอเยนต์",
+    "สล็อตเว็บตรง"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/_PG__SLOT.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
